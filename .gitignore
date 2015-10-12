@@ -1,0 +1,4 @@
+#Don't ignore these files
+!.gitignore
+!.classpath
+!.project
